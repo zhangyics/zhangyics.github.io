@@ -10,6 +10,10 @@ redirect_from:
 
 I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. My research interest is Natural Language Generation. Currently I'm working on the style transfer task.
 
+News
+======
+[2020-08] This poor girl is looking for a job.  Feel free to contact if you are interested.
+
 Experience
 ======
 Research Intern of NLC group, Microsoft Reserach Asia, 2018.09 - 2018.12
@@ -47,7 +51,8 @@ A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Stor
 
 
 **Yi Zhang**, Xu Sun, Shuming Ma, Yang Yang, Xuancheng Ren  
-Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data? **COLING** 2018  [[pdf]](http://aclweb.org/anthology/C18-1061) [[code]](https://github.com/lancopku/Multi-Order-LSTM)
+Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data 
+**COLING** 2018  [[pdf]](http://aclweb.org/anthology/C18-1061) [[code]](https://github.com/lancopku/Multi-Order-LSTM)
 
 
 
