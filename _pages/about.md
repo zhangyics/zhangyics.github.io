@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. My research interest is Natural Language Generation. Currently I'm working on the style transfer task.
+I am a PhD candidate, supervised by [Prof. Xu Sun](https://xusun.org), at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. My research interest is Natural Language Generation. Currently I'm working on the style transfer task.
 
-<h2 id="news">News</h2> 
+<h1 id="news">News</h1> 
 [2020-08] This poor girl is looking for a job.  Feel free to contact if you are interested.
 
-<h2 id="exp">Experience</h2> 
-Research Intern of NLC group, Microsoft Reserach Asia, 2018.09 - 2018.12
+<h1 id="experience">Experience</h1> 
+2018.09 - 2019.01 Research Intern of NLC group, Microsoft Reserach Asia; Focus on formality style transfer.
 
-<h2 id="pubs">Publications</h2> 
+<h1 id="project">Project</h1>
+PKUSEG Toolkit: A multi-domain Chinese word segmentation toolkit; Received 5k stars in GitHub;
+Responsible for the post-processing of segmentation and testing.
+
+<h1 id="publications">Publications</h1> 
 **Yi Zhang**, Tao Ge, Xu Sun  
 Parallel Data augmentation for Formality Style Transfer   
 **ACL** 2020
