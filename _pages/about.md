@@ -10,24 +10,21 @@ redirect_from:
 
 I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Computational Linguistics, School of Electronics Engineering and Computer Science, Peking University. My research interest is Natural Language Generation. Currently I'm working on the style transfer task.
 
-News
-======
+<h2 id="news">News</h2> 
 [2020-08] This poor girl is looking for a job.  Feel free to contact if you are interested.
 
-Experience
-======
+<h2 id="experience">Experience</h2> 
 Research Intern of NLC group, Microsoft Reserach Asia, 2018.09 - 2018.12
 
-Publications
-======
+<h2 id="publications">Publications</h2> 
 **Yi Zhang**, Tao Ge, Xu Sun  
-Parallel Data augmentation for Formality Style Transfer
+Parallel Data augmentation for Formality Style Transfer   
 **ACL** 2020
 
 
 
-Zhiyuan Zhang, Xiaoqian Liu, **Yi Zhang**, Qi Su, Xu Sun and Bin He
-Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models 
+Zhiyuan Zhang, Xiaoqian Liu, **Yi Zhang**, Qi Su, Xu Sun and Bin He  
+Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models  
 **Findings of EMNLP** 2020
 
 
@@ -38,20 +35,20 @@ Information Sciences. Elsevier. 478:303-317, 2019 [[doi]](https://doi.org/10.101
 
 
 
-**Yi Zhang**, Jingjing Xu, Pengcheng Yang, Xu Sun 
+**Yi Zhang**, Jingjing Xu, Pengcheng Yang, Xu Sun    
 Learning Sentiment Memories for Sentiment Modification without Parallel Data  
 **EMNLP** 2018 [[pdf]](http://aclweb.org/anthology/D18-1138) [[code]](https://github.com/lancopku/SMAE)
 
 
 
 Jingjing Xu, Xuancheng Ren, **Yi Zhang**, Qi Zeng, Xiaoyan Cai, Xu Sun  
-A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation 
+A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation  
 **EMNLP** 2018 
 
 
 
 **Yi Zhang**, Xu Sun, Shuming Ma, Yang Yang, Xuancheng Ren  
-Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data 
+Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data  
 **COLING** 2018  [[pdf]](http://aclweb.org/anthology/C18-1061) [[code]](https://github.com/lancopku/Multi-Order-LSTM)
 
 
