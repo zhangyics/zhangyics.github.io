@@ -13,10 +13,10 @@ I am a PhD candidate, supervised by Prof. Xu Sun, at MOE Key Laboratory of Compu
 <h2 id="news">News</h2> 
 [2020-08] This poor girl is looking for a job.  Feel free to contact if you are interested.
 
-<h2 id="experience">Experience</h2> 
+<h2 id="exp">Experience</h2> 
 Research Intern of NLC group, Microsoft Reserach Asia, 2018.09 - 2018.12
 
-<h2 id="publications">Publications</h2> 
+<h2 id="pubs">Publications</h2> 
 **Yi Zhang**, Tao Ge, Xu Sun  
 Parallel Data augmentation for Formality Style Transfer   
 **ACL** 2020
