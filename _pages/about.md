@@ -47,7 +47,7 @@ Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models
 
 Xu Sun, Shuming Ma, **Yi Zhang**, Xuancheng Ren  
 Towards Easier and Faster Sequence Labeling for Natural Language Processing: A Search-based Probabilistic Online Learning Framework (SAPO).  
-Information Sciences. Elsevier. 478:303-317, 2019 [[doi]](https://doi.org/10.1016/j.ins.2018.11.025")[[code]](https://github.com/lancopku/SAPO)
+**Information Sciences**. Elsevier. 478:303-317, 2019 [[doi]](https://doi.org/10.1016/j.ins.2018.11.025")[[code]](https://github.com/lancopku/SAPO)
 
 
 
