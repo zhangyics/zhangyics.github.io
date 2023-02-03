@@ -21,6 +21,18 @@ PKUSEG Toolkit: A multi-domain Chinese word segmentation toolkit; Received 5k st
 Responsible for the post-processing of segmentation and testing.
 
 <h1 id="publications">Publications</h1> 
+
+**Yi Zhang**, Lei Li, Yunfang Wu, Qi Su, Xu Sun    
+Alleviating the Knowledge-Language Inconsistency: A Study for Deep Commonsense Knowledge     
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 2022
+
+
+Kaiyuan Liao#, **Yi Zhang#**, Xuancheng Ren, Qi Su, Xu Sun, Bin He    
+A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models     
+**NAACL 2021**
+
+
+
 **Yi Zhang**, Tao Ge, Xu Sun  
 Parallel Data augmentation for Formality Style Transfer   
 **ACL** 2020
