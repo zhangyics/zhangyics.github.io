@@ -31,6 +31,10 @@ Kaiyuan Liao#, **Yi Zhang#**, Xuancheng Ren, Qi Su, Xu Sun, Bin He
 A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models     
 **NAACL 2021**
 
+Ruixuan Luo, **Yi Zhang#**, Sishuo Chen and Xu Sun    
+Translation as Cross-Domain Knowledge: Attention Augmentation for Unsupervised Cross-Domain Segmenting and Labeling Tasks     
+**Findings of EMNLP** 2021
+
 
 
 **Yi Zhang**, Tao Ge, Xu Sun  
